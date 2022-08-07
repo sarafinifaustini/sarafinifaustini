@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarafinifaustini
-- 👀 I’m interested in ... vue,flutter,laravel
-- 🌱 I’m currently learning ...server management
+- 👀 I’m interested in ... vue,flutter,laravel,react native
+- 🌱 I’m currently learning ...a lot
 - 💞️ I’m looking to collaborate on ... vue and flutter open source project
 - 📫 How to reach me ...sarinethaindu@gmail.com
 
